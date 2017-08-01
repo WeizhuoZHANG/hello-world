@@ -1,5 +1,4 @@
 # hello-world
-Github Guide
 
 Hi Everyone,
 
